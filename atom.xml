@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>jqhome</title>
+  <title>技巧分享屋</title>
   
-  <subtitle>回归现实，分享有趣^_^</subtitle>
+  <subtitle>回归现实，分享有趣</subtitle>
   <link href="https://bzxg-space.github.io/atom.xml" rel="self"/>
   
   <link href="https://bzxg-space.github.io/"/>
